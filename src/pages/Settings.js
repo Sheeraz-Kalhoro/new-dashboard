@@ -9,13 +9,13 @@ import MailIcon from '@mui/icons-material/Mail';
 const Settings = () => {
   return (
     <>
-    <Button variant="solid">Solid</Button>
+    {/* <Button variant="solid">Solid</Button>
       <Button variant="contained">Soft</Button>
       <Button variant="outlined">Outlined</Button>
       <Button variant="plain">Plain</Button>
     <Badge badgeContent={4} color="primary">
     <MailIcon color="action" />
-  </Badge>
+  </Badge> */}
     </>
   )
 }

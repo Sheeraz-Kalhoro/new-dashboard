@@ -1,0 +1,19 @@
+.header{
+    grid-column: 3/-1;
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    /* padding:10px;    */
+    background: #fcfcfc;
+    box-shadow: 0 2.47px 4.99px 0 darkgray;
+    
+}
+.drop-menu{
+    grid-column:10 /-1 ;
+    padding: 14px;
+}
+.header--weather{
+    grid-column: 9/10;
+    /* margin-left: auto; */
+    padding:0 10px;
+    margin-top: 0;
+}
